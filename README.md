@@ -1,7 +1,7 @@
-![banner image2](https://www.creative-tim.com/blog/content/images/2021/10/Github-profile-1.jpg)
+![banner image2](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Aryan Kadam</h1>
 <h3 align="center">I am a student and the passionate coder that you are looking for.</h3>
-<img align="right" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" alt="coding" >
+<img align="right" alt="coding"  src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryyan0701&label=Profile%20views&color=0e75b6&style=flat" alt="aryyan0701" /> </p>
 
