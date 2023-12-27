@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm a student, coder, and tech enthusiast from India.<br><br>- 🔭 I’m working as frontend dev.<br>- 📚 I'm currently learning Nextjs.</p>
+<p align="left">I'm a student, coder, and tech enthusiast from India.<br><br>- 🔭 I’m working as frontend dev.<br>- 📚 I'm currently learning React Js, Next Js.</p>
 
 ###
 
