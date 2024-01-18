@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
@@ -17,11 +17,11 @@
 
 ###
 
-<h3 align="left">👩‍💻   My name is Aryan Kadam.</h3>
+<h3 align="left">👩‍💻 My name is Aryan Kadam.</h3>
 
 ###
 
-<p align="left">I'm a student, coder, and tech enthusiast from India.<br><br>- 🔭 I’m working as frontend dev.<br>- 📚 I'm currently learning React Js, Next Js.</p>
+<p align="left">I'm a student, coder, open source contributo and tech enthusiast from India.<br><br>- 🔭 I’m working as frontend dev.<br>- 📚 I'm currently learning Typescript.</p>
 
 ###
 
