@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm a student, coder, open source contributo and tech enthusiast from India.<br><br>- 🔭 I’m working as frontend dev.<br>- 📚 I'm recently learning MERN, currently exploring some backend stuff.</p>
+<p align="left">I'm a student, coder, open source contributo and tech enthusiast from India.<br><br>- 🔭 I’m working as frontend dev.<br>- 📚 I'm learning right now MERN, currently exploring some backend stuff.</p>
 
 ###
 
@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular" height="40" alt="angular logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
