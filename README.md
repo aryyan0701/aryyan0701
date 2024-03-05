@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm a student, coder, open source contributo and tech enthusiast from India.<br><br>- 🔭 I’m working as frontend dev.<br>- 📚 I'm currently learning Typescript.</p>
+<p align="left">I'm a student, coder, open source contributo and tech enthusiast from India.<br><br>- 🔭 I’m working as frontend dev.<br>- 📚 I'm currently learning MERN.</p>
 
 ###
 
