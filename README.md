@@ -14,10 +14,6 @@
 
 ###
 
-<h1 align="center">hey there, hi there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻 My name is Aryan Kadam.</h3>
 
 ###
