@@ -22,8 +22,17 @@
 <p align="left">I'm a student, coder, open source contributo and tech enthusiast from India.<br><br>- 🔭 I’m working as frontend dev.<br>- 📚 I'm learning right now MERN, currently exploring some backend stuff.</p>
 
 ###
+<!--Snake animation -->
 
-<h3 align="left">🛠 Language and tools</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
+</picture>
+
+###
+
+<h3 align="left">🛠 Technologies</h3>
 
 ###
 
