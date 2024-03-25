@@ -72,7 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
   <img width="12" />
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hashnode/hashnode-original.svg" height="40" alt="hashnode logo"  />
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3PFRvzgKluH-A93WOmJhZopl8qrkLxxgiG2W40DmhH37Pg57MjA1Nhqy&s=10" height="40" alt="hashnode logo"  />
 <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 <img width="12" />
