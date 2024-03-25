@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 My name is Aryan Kadam.</h3>
+<h3 align="left">👨‍💻 My name is Aryan Kadam.</h3>
 
 ###
 
