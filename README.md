@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm a student, coder, open source contributo and tech enthusiast from India.<br><br>- 🔭 I’m working as frontend dev.<br>- 📚 I'm learning right now MERN, currently exploring some backend stuff.</p>
+<p align="left">I'm a student, coder, open source contributo and tech enthusiast from India.<br><br>- 🔭 I’m working as frontend dev.<br>- 📚 Right now i'm learning MERN, currently exploring some backend stuff.</p>
 
 ###
 <!--Snake animation -->
