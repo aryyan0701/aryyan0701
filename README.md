@@ -101,3 +101,4 @@
 <h3 align="left">📝 Personal Blogs</h3>
 
 [Check out my latest blog post](https://aryankadam.hashnode.dev/react-js-beginner-to-advanced)
+![React Logo](https://www.exposure.com/Customer-Content/www/CMS/files/blog/your-company-needs-a-blog-05.jpg)
