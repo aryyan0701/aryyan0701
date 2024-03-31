@@ -35,7 +35,7 @@
 
 <h3 align="left">📝 Personal Blogs</h3>
 
-![Check Here] (https://aryankadam.hashnode.dev/react-js-beginner-to-advanced)
+[Check out my latest blog post](https://aryankadam.hashnode.dev/react-js-beginner-to-advanced)
 
 ###
 
