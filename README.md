@@ -1,6 +1,5 @@
 <div align="center" >
   <img height="400" width="600" src="https://raw.githubusercontent.com/prscX/PXSiriWave9/master/assets/siriwave9.gif" style="position: relative; z-index: 1;" />
-<h3>hello world...!</h3>
 </div>
 
 
