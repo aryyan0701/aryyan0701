@@ -111,7 +111,7 @@
 <div style="overflow: auto;">
   <a target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced-series-3"> <img target="_blank" src="https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_6329bd21df80051c9cfe6b3f_Methods_for_Conditional_Rendering_in_React_OG_Image_d8160df800.jpg" alt="Blogs" style="width: 49%; float: left; margin-right: 1%;">
   </a>
- <a target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced-series-3"> <img target="_blank" src="https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_6329bd21df80051c9cfe6b3f_Methods_for_Conditional_Rendering_in_React_OG_Image_d816" alt="Blogs" style="width: 49%; float: left; margin-right: 1%;">
+ <a target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced-series-3"> <img target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxxnHo9fdD5tTiRYTjbk2N9attr8pBSqwzemuNAoPZ-Zx7NgAD3Kei3k&s=10" alt="Blogs" style="width: 49%; float: left;">
   </a>
 </div>
 
