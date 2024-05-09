@@ -23,15 +23,6 @@
 <p align="left">I'm a student, coder, open source contributo and tech enthusiast from India.<br><br>- 🔭 Now working as frontend dev.<br>- 📚 Right now learning MERN. <br>- 🧐 Currently exploring some backend stuff.</p>
 
 ###
-<!--Snake animation -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
-</picture>
-
-###
 
 <h3 align="left">🛠 Technologies</h3>
 
@@ -100,17 +91,53 @@
 
 <h3 align="left">📝 Personal Blogs</h3>
 
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; padding-right: 10px;">
+      <a target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced-series-5">
+        <h4>React JS Beginner to Advanced series (5)</h4>
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1714362170718/39be6e2f-dde5-42d1-8b90-d9c05ae2bf67.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blogs" style="width: 100%;">
+        <p>React Hooks(part-2)</p>
+      </a>
+    </td>
+    <td style="width: 50%;">
+      <a target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced-series-4">
+        <h4>React JS Beginner to Advanced series (4)</h4>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxxnHo9fdD5tTiRYTjbk2N9attr8pBSqwzemuNAoPZ-Zx7NgAD3Kei3k&s=10" alt="Pages" style="width: 100%;">
+         <p>React Hooks(part-1)</p>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div style="overflow: auto;">
-  <a target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced-3">
-<h4> React JS Beginner to Advanced series (3)</h4>
-<img target="_blank" src="https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_6329bd21df80051c9cfe6b3f_Methods_for_Conditional_Rendering_in_React_OG_Image_d8160df800.jpg" alt="Blogs" style="width: 49%; float: left; margin-right: 1%;">
-  </a>
-  <a  target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced-series-4">
-<h4> React JS Beginner to Advanced series (4)</h4>
-<img target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxxnHo9fdD5tTiRYTjbk2N9attr8pBSqwzemuNAoPZ-Zx7NgAD3Kei3k&s=10" alt="Pages" style="width: 49%; float: left;">
-  </a>
-</div>
+<table style="width: 100%; table-layout: fixed;">
+    <tr>
+    <td style="width: 33%; padding-right: 10px;">
+      <a target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced-series-3">
+        <h4>React JS Beginner to Advanced series (3)</h4>
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1712682544991/a31af5d2-327e-4f1b-bcb5-8237afe7fdae.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blogs" style="width: 100%;">
+      </a>
+    </td>
+    <td style="width: 33%; padding-right: 10px;">
+      <a target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced-series-2">
+        <h4>React JS Beginner to Advanced series (2)</h4>
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1712073764072/2e5da723-cbda-4a3a-9938-57b0932b1fb4.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Pages" style="width: 100%;">
+      </a>
+    </td>
+         <td style="width: 33%;">
+      <a target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced">
+        <h4>React JS Beginner to Advanced series (2)</h4>
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1711888555160/51c0722e-9799-42e4-8556-720375f11973.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Pages" style="width: 100%;">
+      </a>
+    </td>
+  </tr>
+  </table>
+
+
+
+
+
+
 
 
 
