@@ -111,7 +111,7 @@
     <td style="width: 33%;">
       <a target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced-series-4">React JS Beginner to Advanced series (4) </a>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxxnHo9fdD5tTiRYTjbk2N9attr8pBSqwzemuNAoPZ-Zx7NgAD3Kei3k&s=10" alt="Pages" style="width: 100%;">
-         <p>React Hooks</p>
+         <p>Hooks in React</p>
     </td>
   </tr>
 </table>
