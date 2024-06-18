@@ -94,9 +94,9 @@
 <table style="width: 100%; table-layout: fixed;">
   <tr>
          <td style="width: 33%; padding-right: 10px;">
-      <a target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced-series-7">React JS Beginner to Advanced series (6)</a>
-        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1715961479197/6cfd20bd-e65d-4d59-abd4-3444e59effea.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blogs" style="width: 100%;">
-        <p>Form validations in React</p>
+     <a target="_blank" href="https://aryankadam.hashnode.dev/getcodecontext">Get_code_context</a>
+        <img src="https://blog.n8n.io/content/images/2024/04/11-ai-tools-coding-d-8--1-.png" alt="Blogs" style="width: 100%;">
+        <p>Get code context/info about any react project</p>
     </td>
      <td style="width: 33%; padding-right: 10px;">
       <a target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced-series-6">React JS Beginner to Advanced series (6)</a>
