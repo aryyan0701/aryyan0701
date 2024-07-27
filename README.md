@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm a student, coder, open source contributo and tech enthusiast from India.<br><br>- 🔭 Now working as frontend dev.<br>- 📚 Right now learning MERN. <br>- 🧐 Currently exploring some backend stuff.</p>
+<p align="left">I'm a student, coder, open source contributor and tech enthusiast from India.<br><br>- 🔭 Now working as frontend dev.<br>- 📚 Right now learning MERN. <br>- 🧐 Currently exploring some backend stuff.</p>
 
 ###
 
