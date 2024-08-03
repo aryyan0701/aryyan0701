@@ -94,16 +94,16 @@
 <table style="width: 100%; table-layout: fixed;">
   <tr>
          <td style="width: 33%; padding-right: 10px;">
+     <a target="_blank" href="https://aryankadam.hashnode.dev/firebase-authentication">Firebase Auth-Integrated React App</a>
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1722327142703/8a04af71-9b1a-4059-a8cc-fe086f9e2c88.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blogs" style="width: 100%;">
+    </td>
+     <td style="width: 33%; padding-right: 10px;">
      <a target="_blank" href="https://aryankadam.hashnode.dev/multilingual-using-react-i18next">Multilingual using react-i18next</a>
         <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1721739829058/12cca21e-5c8a-4104-a987-339e8be72205.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blogs" style="width: 100%;">
     </td>
-     <td style="width: 33%; padding-right: 10px;">
-      <a target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced-series-6">React JS Beginner to Advanced series (6)</a>
-        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1715590244644/8e1d07f6-f527-490c-8248-ce1292ee190b.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Blogs" style="width: 100%;">
-    </td>
     <td style="width: 33%;">
-      <a target="_blank" href="https://aryankadam.hashnode.dev/react-js-beginner-to-advanced-series-4">React JS Beginner to Advanced series (4) </a>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxxnHo9fdD5tTiRYTjbk2N9attr8pBSqwzemuNAoPZ-Zx7NgAD3Kei3k&s=10" alt="Pages" style="width: 100%;">
+      <a target="_blank" href="https://aryankadam.hashnode.dev/getcodecontext">Get_code_context</a>
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1718688514830/df675803-ed7d-4aa6-ab23-329c5ea2a981.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Pages" style="width: 100%;">
     </td>
   </tr>
 </table>
