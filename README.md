@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student, coder, open source contributor and tech enthusiast from India.<br>Right now looking to collaborate on MERN stack and Next.js projects, especially in hackathons.<br>Also I am looking for help with Frontend optimization and advanced Next.js features like SSR and SSG.<br>And currently I am learning Next.js and Redux Toolkit for better state management.<br>
+💻 I'm a student, coder, open source contributor and tech enthusiast from India.<br> 🤝 Right now looking to collaborate on MERN stack and Next.js projects, especially in hackathons.<br> 🔧 Also I am looking for help with Frontend optimization and advanced Next.js features like SSR and SSG.<br> 📚 And currently I am learning Next.js and Redux Toolkit for better state management.<br>
 
 
 ## 🌐 Socials:
