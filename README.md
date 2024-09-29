@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 About Me
 💻 I'm a student, coder, open source contributor and tech enthusiast from India.<br> 🤝 Right now looking to collaborate on MERN stack and Next.js projects, especially in hackathons.<br> 🔧 Also I am looking for help with Frontend optimization and advanced Next.js features like SSR and SSG.<br> 📚 And currently I am learning Next.js and Redux Toolkit for better state management.<br>
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hyyaryann_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/aryan-kadam-568083204) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aaryyan_) 
 
 # 💻 Tech Stack:
