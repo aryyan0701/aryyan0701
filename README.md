@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/aryan-kadam-568083204) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aaryyan_) [![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@aryan0701) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hyyaryann_) [![Bento](https://img.shields.io/badge/Bento-%23FF4800.svg?logo=bento&logoColor=white)](https://bento.me/aryan-kadam) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aryankadam071)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/aryan-kadam-568083204) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aaryyan_) [![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@aryan0701) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://new-portfolio-phi-six.vercel.app/) [![Bento](https://img.shields.io/badge/Bento-%23FF4800.svg?logo=bento&logoColor=white)](https://bento.me/aryan-kadam) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aryankadam071)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hyyaryann_) 
 
 
 
